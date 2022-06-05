@@ -16,13 +16,21 @@
 
 **Link to work:** ([Will post like when I upload the files tomorrow.](https://github.com/AmeliaGryffon/medicine-calendar))
 
-### Day 2: June 3, 2022
+### Day 3: June 3, 2022
 
 **Today's Progress**: I've nearly finished the med tracker app.
 
 **Thoughts:** Momentjs made tracking time way easier that calculating based on the built in JavaScript. Keeping track of data was hard especially since I need to calculate on the highest level component using data from the lowest level ones. It took a couple iterations but I finally got to the solution.
 
 I didn't post on the second because unfortunately life got in the way, but I'm back on track now.
+
+**Link to work:** ((https://github.com/AmeliaGryffon/medicine-calendar))
+
+### Day 4: June 4, 2022
+
+**Today's Progress**: I've have finished the med tracker app.
+
+**Thoughts:** Got the days missed to only count the days that have already passed.
 
 **Link to work:** ((https://github.com/AmeliaGryffon/medicine-calendar))
 
