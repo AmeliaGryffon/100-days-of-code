@@ -34,4 +34,11 @@ I didn't post on the second because unfortunately life got in the way, but I'm b
 
 **Link to work:** ((https://github.com/AmeliaGryffon/medicine-calendar))
 
+### Day 5: June 6, 2022
+
+**Today's Progress**: I started working with ExpressJs to make an API. 
+
+**Thoughts:** GThis is the first time I've tried to do make anything back-end. Not entirely sure what this is going to end up being, but I'm learning a lot about HTTP requests.
+
+**Link to work:** (Will post link once I've made enough progress I feel comfortable to upload to github)
 
