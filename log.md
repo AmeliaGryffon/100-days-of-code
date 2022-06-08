@@ -42,3 +42,11 @@ I didn't post on the second because unfortunately life got in the way, but I'm b
 
 **Link to work:** (Will post link once I've made enough progress I feel comfortable to upload to github)
 
+### Day 6: June 7, 2022
+
+**Today's Progress**: I practiced JS on JSChallenger 
+
+**Thoughts:** This website has a lot of good practice questions, though the functions they have you write are short one liners.
+
+**Link to work:** ([JSChallenger](https://jschallenger.com/))
+
